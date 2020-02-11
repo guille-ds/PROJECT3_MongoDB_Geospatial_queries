@@ -1,1 +1,5 @@
 .env
+tasks.txt
+carto.json
+companies.json
+.ipynb_checkpoints
